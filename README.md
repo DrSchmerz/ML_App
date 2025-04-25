@@ -1,5 +1,4 @@
-# ML_App
-Dyslexia App
+# ML Assignment
 Task: AI Startup Brainstorm
 • Your challenge is to conceptualize a startup that harnesses the power of AI. This endeavor involves utilizing the array of AI techniques and models to enable the major business opportunities. We encourage you to think creatively about how these AI tasks can be integrated to form the backbone of your business operations. Your project should clearly outline which specific tasks and techniques you plan to employ and the rationale behind these choices.
 • Teamwork is key for this project. The group of 4-5 members would collaboratively initiate a detailed business plan. This plan should articulate your proposed business‘s objectives and how AI technology will drive its operations. Meanwhile, This project not only offers you a platform to apply theoretical knowledge in a practical setting but also stimulates entrepreneurial thinking in the burgeoning field of AI.
